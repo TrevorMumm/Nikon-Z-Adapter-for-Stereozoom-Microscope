@@ -1,4 +1,7 @@
 # Nikon-Z-Adapter-for-Stereozoom-Microscope
+
+Find on printables - https://www.printables.com/model/1539230-nikon-z-adapter-for-microscope
+
 Nikon Z mount to 27.7mm Bausch & Lomb Stereo zoom microscope. This is a pretty niche setup, so not sure how many people will find this useful.
 
 The Z mount design is taken from https://github.com/joe-warren/macro-lens/blob/main/Nikon%20Z-Mount.STEP
